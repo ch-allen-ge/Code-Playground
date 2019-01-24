@@ -9,6 +9,7 @@
  If we were to continuously do that, we will be able to get enough data about the wave to graph it and see it in action.
 
  ![Initial Wave](https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/initialWave.png =400x200)
+ <img src="https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/initialWave.png" width="20%">
 
  ![Waves Collide](https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/wavesCollide.png =400x200)
 
