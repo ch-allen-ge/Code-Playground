@@ -7,3 +7,5 @@
  From there, we will use the initial wave equation to calculate some starting values. These values will model an initial wave with a certain height. For the next time step, we will approximate the change in height using the KdV equation, and with that change in height, we can add it to the previous height of the wave to determine its new position, by means of Euler’s method.  
  
  If we were to continuously do that, we will be able to get enough data about the wave to graph it and see it in action.
+
+ ![Initial Wave](https://raw.githubusercontent.com/d4rkmage80/codePlayground/Java/math/kdvEquation/initialWave.png)
