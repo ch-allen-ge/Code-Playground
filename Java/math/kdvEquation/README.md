@@ -8,8 +8,10 @@
  
  If we were to continuously do that, we will be able to get enough data about the wave to graph it and see it in action.
 
- <img src="https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/initialWave.png" width="40%">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/initialWave.png" width="40%">
 
  <img src="https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/wavesCollide.png" width="40%">
 
  <img src="https://raw.githubusercontent.com/ch-allen-ge/Code-Playground/master/Java/math/kdvEquation/images/wavesMerge.png" width="40%">
+</p>
