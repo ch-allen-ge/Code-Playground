@@ -8,4 +8,4 @@
  
  If we were to continuously do that, we will be able to get enough data about the wave to graph it and see it in action.
 
- ![Initial Wave](https://raw.githubusercontent.com/d4rkmage80/codePlayground/Java/math/kdvEquation/initialWave.png)
+ ![Initial Wave]https://github.com/ch-allen-ge/Code-Playground/blob/master/Java/math/kdvEquation/images/initialWave.png)
